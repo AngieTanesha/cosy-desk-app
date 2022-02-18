@@ -1,0 +1,1859 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-02-18T23:53:01.739+11:00
+  initializedAtString: 2022-02-18T23:53:01.739+11:00
+  entries:
+  - path: .vsconfig
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/.vsconfig
+    projectPath: .vsconfig
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/._Sprites
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/._Sprites
+    projectPath: Assets/._Sprites
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Animations.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Animations.meta
+    projectPath: Assets/Animations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/._Editor.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/._Editor.meta
+    projectPath: Assets/Plugins/GitHub/._Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._big-logo@2x.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/._big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._big-logo@2x.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._credits.txt
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/._credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._credits.txt.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._eula.txt
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/._eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._eula.txt.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Api.45.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Api.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Api.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Unity.45.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._libsfw.bundle
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/._libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._libsfw.bundle.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._libsfw.so
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/._libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._libsfw.so.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._Mono.Posix.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._Mono.Posix.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._QuickGuide.pdf
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/._QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._QuickGuide.pdf.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._sfw.net.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._sfw.net.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._System.Threading.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/._System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._System.Threading.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._x64.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/._x86.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/._x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/._x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/._pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/._sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/._pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/._sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs.meta
+    projectPath: Assets/Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/angients_ logo.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/angients_ logo.prefab
+    projectPath: Assets/Prefabs/angients_ logo.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/angients_ logo.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/angients_ logo.prefab.meta
+    projectPath: Assets/Prefabs/angients_ logo.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Book.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Book.prefab
+    projectPath: Assets/Prefabs/Book.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Book.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Book.prefab.meta
+    projectPath: Assets/Prefabs/Book.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Bookshelf stuff.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Bookshelf stuff.prefab
+    projectPath: Assets/Prefabs/Bookshelf stuff.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Bookshelf stuff.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Bookshelf stuff.prefab.meta
+    projectPath: Assets/Prefabs/Bookshelf stuff.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Bookshelf.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Bookshelf.prefab
+    projectPath: Assets/Prefabs/Bookshelf.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Bookshelf.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Bookshelf.prefab.meta
+    projectPath: Assets/Prefabs/Bookshelf.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Carpet.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Carpet.prefab
+    projectPath: Assets/Prefabs/Carpet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Carpet.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Carpet.prefab.meta
+    projectPath: Assets/Prefabs/Carpet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Chair.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Chair.prefab
+    projectPath: Assets/Prefabs/Chair.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Chair.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Chair.prefab.meta
+    projectPath: Assets/Prefabs/Chair.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Character.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Character.prefab
+    projectPath: Assets/Prefabs/Character.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Character.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Character.prefab.meta
+    projectPath: Assets/Prefabs/Character.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Floor.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Floor.prefab
+    projectPath: Assets/Prefabs/Floor.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Floor.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Floor.prefab.meta
+    projectPath: Assets/Prefabs/Floor.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/framedraft.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/framedraft.prefab
+    projectPath: Assets/Prefabs/framedraft.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/framedraft.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/framedraft.prefab.meta
+    projectPath: Assets/Prefabs/framedraft.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/gradient_poster.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/gradient_poster.prefab
+    projectPath: Assets/Prefabs/gradient_poster.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/gradient_poster.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/gradient_poster.prefab.meta
+    projectPath: Assets/Prefabs/gradient_poster.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Table.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Table.prefab
+    projectPath: Assets/Prefabs/Table.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Table.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Table.prefab.meta
+    projectPath: Assets/Prefabs/Table.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Vase.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Vase.prefab
+    projectPath: Assets/Prefabs/Vase.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Vase.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Vase.prefab.meta
+    projectPath: Assets/Prefabs/Vase.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Wall Art.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Wall Art.prefab
+    projectPath: Assets/Prefabs/Wall Art.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Wall Art.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Wall Art.prefab.meta
+    projectPath: Assets/Prefabs/Wall Art.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Wall.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Wall.prefab
+    projectPath: Assets/Prefabs/Wall.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Wall.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/Wall.prefab.meta
+    projectPath: Assets/Prefabs/Wall.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/water_poster.prefab
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/water_poster.prefab
+    projectPath: Assets/Prefabs/water_poster.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/water_poster.prefab.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Prefabs/water_poster.prefab.meta
+    projectPath: Assets/Prefabs/water_poster.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scenes.meta
+    projectPath: Assets/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scenes/SampleScene.unity.meta
+    projectPath: Assets/Scenes/SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts.meta
+    projectPath: Assets/Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/CameraFollow2D.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/CameraFollow2D.cs
+    projectPath: Assets/Scripts/CameraFollow2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/CameraFollow2D.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/CameraFollow2D.cs.meta
+    projectPath: Assets/Scripts/CameraFollow2D.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/CharacterController2D.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/CharacterController2D.cs
+    projectPath: Assets/Scripts/CharacterController2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/CharacterController2D.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/CharacterController2D.cs.meta
+    projectPath: Assets/Scripts/CharacterController2D.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/DateAndTime.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/DateAndTime.cs
+    projectPath: Assets/Scripts/DateAndTime.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/DateAndTime.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/DateAndTime.cs.meta
+    projectPath: Assets/Scripts/DateAndTime.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/InitialiseCharacter.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/InitialiseCharacter.cs
+    projectPath: Assets/Scripts/InitialiseCharacter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/InitialiseCharacter.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/InitialiseCharacter.cs.meta
+    projectPath: Assets/Scripts/InitialiseCharacter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/InitialiseRoom.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/InitialiseRoom.cs
+    projectPath: Assets/Scripts/InitialiseRoom.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/InitialiseRoom.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/InitialiseRoom.cs.meta
+    projectPath: Assets/Scripts/InitialiseRoom.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/PlayerMovement.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/PlayerMovement.cs
+    projectPath: Assets/Scripts/PlayerMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/PlayerMovement.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/PlayerMovement.cs.meta
+    projectPath: Assets/Scripts/PlayerMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/RoomObject.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/RoomObject.cs
+    projectPath: Assets/Scripts/RoomObject.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/RoomObject.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/RoomObject.cs.meta
+    projectPath: Assets/Scripts/RoomObject.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SaveManager.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/SaveManager.cs
+    projectPath: Assets/Scripts/SaveManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SaveManager.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/SaveManager.cs.meta
+    projectPath: Assets/Scripts/SaveManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Stopwatch.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/Stopwatch.cs
+    projectPath: Assets/Scripts/Stopwatch.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Stopwatch.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/Stopwatch.cs.meta
+    projectPath: Assets/Scripts/Stopwatch.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/TimedSessions.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/TimedSessions.cs
+    projectPath: Assets/Scripts/TimedSessions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/TimedSessions.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/TimedSessions.cs.meta
+    projectPath: Assets/Scripts/TimedSessions.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Timer.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/Timer.cs
+    projectPath: Assets/Scripts/Timer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Timer.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/Timer.cs.meta
+    projectPath: Assets/Scripts/Timer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/UIController.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/UIController.cs
+    projectPath: Assets/Scripts/UIController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/UIController.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Scripts/UIController.cs.meta
+    projectPath: Assets/Scripts/UIController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites.meta
+    projectPath: Assets/Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Chair.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Chair.png
+    projectPath: Assets/Sprites/._Chair.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Character.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Character.png
+    projectPath: Assets/Sprites/._Character.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Donebutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Donebutton.png
+    projectPath: Assets/Sprites/._Donebutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Flower.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Flower.png
+    projectPath: Assets/Sprites/._Flower.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._framedraft.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._framedraft.png
+    projectPath: Assets/Sprites/._framedraft.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._IMG_2612.PNG
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._IMG_2612.PNG
+    projectPath: Assets/Sprites/._IMG_2612.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._IMG_2648.PNG
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._IMG_2648.PNG
+    projectPath: Assets/Sprites/._IMG_2648.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._IMG_2725.jpg
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._IMG_2725.jpg
+    projectPath: Assets/Sprites/._IMG_2725.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._pausebutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._pausebutton.png
+    projectPath: Assets/Sprites/._pausebutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Stopwatch Button.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Stopwatch Button.png
+    projectPath: Assets/Sprites/._Stopwatch Button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._stopwatchbutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._stopwatchbutton.png
+    projectPath: Assets/Sprites/._stopwatchbutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Table.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Table.png
+    projectPath: Assets/Sprites/._Table.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._tagbutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._tagbutton.png
+    projectPath: Assets/Sprites/._tagbutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Timer Button.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Timer Button.png
+    projectPath: Assets/Sprites/._Timer Button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._UI buttons corrected.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._UI buttons corrected.png
+    projectPath: Assets/Sprites/._UI buttons corrected.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-1.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-1.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-10.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-10.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-2.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-2.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-3.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-3.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-4.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-4.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-5.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-5.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-6.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-6.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-7.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-7.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-8.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-8.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Untitled_Artwork-9.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Untitled_Artwork-9.png
+    projectPath: Assets/Sprites/._Untitled_Artwork-9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/._Wallthings.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/._Wallthings.png
+    projectPath: Assets/Sprites/._Wallthings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Chair.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Chair.png
+    projectPath: Assets/Sprites/Chair.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Chair.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Chair.png.meta
+    projectPath: Assets/Sprites/Chair.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Character.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Character.png
+    projectPath: Assets/Sprites/Character.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Character.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Character.png.meta
+    projectPath: Assets/Sprites/Character.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Donebutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Donebutton.png
+    projectPath: Assets/Sprites/Donebutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Donebutton.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Donebutton.png.meta
+    projectPath: Assets/Sprites/Donebutton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Flower.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Flower.png
+    projectPath: Assets/Sprites/Flower.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Flower.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Flower.png.meta
+    projectPath: Assets/Sprites/Flower.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/framedraft.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/framedraft.png
+    projectPath: Assets/Sprites/framedraft.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/framedraft.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/framedraft.png.meta
+    projectPath: Assets/Sprites/framedraft.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2612.PNG
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2612.PNG
+    projectPath: Assets/Sprites/IMG_2612.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2612.PNG.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2612.PNG.meta
+    projectPath: Assets/Sprites/IMG_2612.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2648.PNG
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2648.PNG
+    projectPath: Assets/Sprites/IMG_2648.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2648.PNG.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2648.PNG.meta
+    projectPath: Assets/Sprites/IMG_2648.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2725.jpg
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2725.jpg
+    projectPath: Assets/Sprites/IMG_2725.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/IMG_2725.jpg.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/IMG_2725.jpg.meta
+    projectPath: Assets/Sprites/IMG_2725.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/pausebutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/pausebutton.png
+    projectPath: Assets/Sprites/pausebutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/pausebutton.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/pausebutton.png.meta
+    projectPath: Assets/Sprites/pausebutton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Stopwatch Button.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Stopwatch Button.png
+    projectPath: Assets/Sprites/Stopwatch Button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Stopwatch Button.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Stopwatch Button.png.meta
+    projectPath: Assets/Sprites/Stopwatch Button.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/stopwatchbutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/stopwatchbutton.png
+    projectPath: Assets/Sprites/stopwatchbutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/stopwatchbutton.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/stopwatchbutton.png.meta
+    projectPath: Assets/Sprites/stopwatchbutton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Table.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Table.png
+    projectPath: Assets/Sprites/Table.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Table.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Table.png.meta
+    projectPath: Assets/Sprites/Table.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/tagbutton.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/tagbutton.png
+    projectPath: Assets/Sprites/tagbutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/tagbutton.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/tagbutton.png.meta
+    projectPath: Assets/Sprites/tagbutton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Timer Button.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Timer Button.png
+    projectPath: Assets/Sprites/Timer Button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Timer Button.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Timer Button.png.meta
+    projectPath: Assets/Sprites/Timer Button.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/UI buttons corrected.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/UI buttons corrected.png
+    projectPath: Assets/Sprites/UI buttons corrected.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/UI buttons corrected.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/UI buttons corrected.png.meta
+    projectPath: Assets/Sprites/UI buttons corrected.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-1.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-1.png
+    projectPath: Assets/Sprites/Untitled_Artwork-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-1.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-1.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-10.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-10.png
+    projectPath: Assets/Sprites/Untitled_Artwork-10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-10.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-10.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-2.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-2.png
+    projectPath: Assets/Sprites/Untitled_Artwork-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-2.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-2.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-3.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-3.png
+    projectPath: Assets/Sprites/Untitled_Artwork-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-3.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-3.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-4.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-4.png
+    projectPath: Assets/Sprites/Untitled_Artwork-4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-4.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-4.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-5.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-5.png
+    projectPath: Assets/Sprites/Untitled_Artwork-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-5.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-5.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-6.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-6.png
+    projectPath: Assets/Sprites/Untitled_Artwork-6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-6.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-6.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-7.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-7.png
+    projectPath: Assets/Sprites/Untitled_Artwork-7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-7.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-7.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-8.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-8.png
+    projectPath: Assets/Sprites/Untitled_Artwork-8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-8.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-8.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-9.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-9.png
+    projectPath: Assets/Sprites/Untitled_Artwork-9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork-9.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Untitled_Artwork-9.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork-9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Wallthings.png
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Wallthings.png
+    projectPath: Assets/Sprites/Wallthings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Wallthings.png.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Assets/Sprites/Wallthings.png.meta
+    projectPath: Assets/Sprites/Wallthings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/packages-lock.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Packages/packages-lock.json
+    projectPath: Packages/packages-lock.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/AudioManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/AudioManager.asset
+    projectPath: ProjectSettings/AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ClusterInputManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/ClusterInputManager.asset
+    projectPath: ProjectSettings/ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/DynamicsManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/DynamicsManager.asset
+    projectPath: ProjectSettings/DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NetworkManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/NetworkManager.asset
+    projectPath: ProjectSettings/NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PackageManagerSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/PackageManagerSettings.asset
+    projectPath: ProjectSettings/PackageManagerSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Physics2DSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PresetManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/PresetManager.asset
+    projectPath: ProjectSettings/PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TimeManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/TimeManager.asset
+    projectPath: ProjectSettings/TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VersionControlSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/VersionControlSettings.asset
+    projectPath: ProjectSettings/VersionControlSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/XRSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/ProjectSettings/XRSettings.asset
+    projectPath: ProjectSettings/XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings/EditorUserSettings.asset
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

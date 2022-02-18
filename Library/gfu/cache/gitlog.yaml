@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-02-18T23:47:11.065+11:00
+  initializedAtString: 2022-02-18T23:47:11.052+11:00
+  log:
+  - commitID: 506376715ddda6c43041e5c5c945293150fe2cb5
+    mergeA: 
+    mergeB: 
+    authorName: AngieTanesha
+    authorEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitName: AngieTanesha
+    summary: first commit
+    description: 
+    timeString: 2022-02-18T23:44:00.000+11:00
+    commitTimeString: 2022-02-18T23:44:00.000+11:00
+    changes:
+    - path: README.md
+      fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+        Desk/README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 43c7fb43a935cc64aeaa43f87e55ed1a784ca4ab
+    mergeA: 
+    mergeB: 
+    authorName: AngieTanesha
+    authorEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitName: AngieTanesha
+    summary: first commit
+    description: 
+    timeString: 2022-02-18T23:42:15.000+11:00
+    commitTimeString: 2022-02-18T23:42:15.000+11:00
+    changes:
+    - path: README.md
+      fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+        Desk/README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 40d8d5330495b44eaa169dc74a465d84aae1a1ab
+    mergeA: 
+    mergeB: 
+    authorName: AngieTanesha
+    authorEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitEmail: 48684061+AngieTanesha@users.noreply.github.com
+    commitName: AngieTanesha
+    summary: Initial commit
+    description: 
+    timeString: 2022-02-18T23:09:01.000+11:00
+    commitTimeString: 2022-02-18T23:09:01.000+11:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+        Desk/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+        Desk/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+        Desk/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

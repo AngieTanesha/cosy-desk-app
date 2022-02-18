@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6B220042-69FC-FDAC-A50E-05BA1B2E022C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Stopwatch.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InitialiseRoom.cs" Line="22" Column="80" />
+      <File FileName="Assets/Scripts/Stopwatch.cs" Line="138" Column="1" />
+      <File FileName="Assets/Scripts/TimedSessions.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/SaveManager.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/RoomObject.cs" Line="9" Column="30" />
+      <File FileName="Assets/Scripts/DateAndTime.cs" Line="17" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7f4388a-b0f0-4759-aecc-8532d81a99f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
