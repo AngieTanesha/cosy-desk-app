@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-19T00:12:14.498+11:00
+  lastUpdatedAtString: 2022-02-19T00:17:08.949+11:00
   initializedAtString: 2022-02-19T00:12:14.498+11:00
   entries:
   - path: Library/ArtifactDB
@@ -23,24 +23,542 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ArtifactDB-lock
+  - path: Library/Artifacts/21/21b3baf287456cacbafec39becb1ec73
     fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
-      Desk/Library/ArtifactDB-lock
-    projectPath: Library/ArtifactDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/EditorInstance.json
-    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
-      Desk/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+      Desk/Library/Artifacts/21/21b3baf287456cacbafec39becb1ec73
+    projectPath: Library/Artifacts/21/21b3baf287456cacbafec39becb1ec73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/SceneVisibilityState.asset
+  - path: Library/Artifacts/21/21f069932ae97c1012df6b2468b768a8
     fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
-      Desk/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
+      Desk/Library/Artifacts/21/21f069932ae97c1012df6b2468b768a8
+    projectPath: Library/Artifacts/21/21f069932ae97c1012df6b2468b768a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/24/24b4f78d1d0fce6cee51869c44d33f04
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/24/24b4f78d1d0fce6cee51869c44d33f04
+    projectPath: Library/Artifacts/24/24b4f78d1d0fce6cee51869c44d33f04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2d/2d369b83cbad319b9b01ac548f08817e
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/2d/2d369b83cbad319b9b01ac548f08817e
+    projectPath: Library/Artifacts/2d/2d369b83cbad319b9b01ac548f08817e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/85/850528383749d8f91dc5da50f6ec14b3
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/85/850528383749d8f91dc5da50f6ec14b3
+    projectPath: Library/Artifacts/85/850528383749d8f91dc5da50f6ec14b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a4/a490e6fcd8bc9b138b4e8c040502d91d
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/a4/a490e6fcd8bc9b138b4e8c040502d91d
+    projectPath: Library/Artifacts/a4/a490e6fcd8bc9b138b4e8c040502d91d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a5f6bbae21643ec71caa5141dff89900
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/a5/a5f6bbae21643ec71caa5141dff89900
+    projectPath: Library/Artifacts/a5/a5f6bbae21643ec71caa5141dff89900
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a6/a60c9cb8ebeda3bb421a1d58a26905f2
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/Artifacts/a6/a60c9cb8ebeda3bb421a1d58a26905f2
+    projectPath: Library/Artifacts/a6/a60c9cb8ebeda3bb421a1d58a26905f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Documentation~/README.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Documentation~/README.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Documentation~/README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/FileIO.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/ProjectGeneration/StringUtils.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeDiscovery.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/Editor/VSCodeScriptEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/LICENSE.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.4/package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/.signature
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/.signature
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/.signature
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/FileIO.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/ProjectGeneration/StringUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeDiscovery.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/Editor/VSCodeScriptEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json.meta
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json.meta
+    projectPath: Library/PackageCache/com.unity.ide.vscode@1.2.5/ValidationExceptions.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageManager/ProjectCache
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageManager/ProjectCache
+    projectPath: Library/PackageManager/ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageManager/ProjectCache.md5
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/PackageManager/ProjectCache.md5
+    projectPath: Library/PackageManager/ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -51,17 +569,255 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SourceAssetDB-lock
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
-      Desk/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
+      Desk/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityLockfile
+  - path: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
     fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
-      Desk/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
+      Desk/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages/packages-lock.json
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Packages/packages-lock.json
+    projectPath: Packages/packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-298a7a1127b254712bca82a4b6087416
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-298a7a1127b254712bca82a4b6087416
+    projectPath: Temp/UnityTempFile-298a7a1127b254712bca82a4b6087416
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-40a1eae4095484ba6a1e1596d7ed5f86
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-40a1eae4095484ba6a1e1596d7ed5f86
+    projectPath: Temp/UnityTempFile-40a1eae4095484ba6a1e1596d7ed5f86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-40f67ee18bd5b448c950dbb4028f4d1a
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-40f67ee18bd5b448c950dbb4028f4d1a
+    projectPath: Temp/UnityTempFile-40f67ee18bd5b448c950dbb4028f4d1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4bb34d00379204c0d98fde4bb2c2ec49
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-4bb34d00379204c0d98fde4bb2c2ec49
+    projectPath: Temp/UnityTempFile-4bb34d00379204c0d98fde4bb2c2ec49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4d4bd91ad38b449a7996df7d6f9ce3eb
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-4d4bd91ad38b449a7996df7d6f9ce3eb
+    projectPath: Temp/UnityTempFile-4d4bd91ad38b449a7996df7d6f9ce3eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4d8e244e52f154d6ea69c42f6b3d1e3f
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-4d8e244e52f154d6ea69c42f6b3d1e3f
+    projectPath: Temp/UnityTempFile-4d8e244e52f154d6ea69c42f6b3d1e3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4e549f6b7dc974755a5ed2b08a668620
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-4e549f6b7dc974755a5ed2b08a668620
+    projectPath: Temp/UnityTempFile-4e549f6b7dc974755a5ed2b08a668620
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-55ff3d809b611486ba4b1d913c55b8cb
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-55ff3d809b611486ba4b1d913c55b8cb
+    projectPath: Temp/UnityTempFile-55ff3d809b611486ba4b1d913c55b8cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-56ebf71e053614236b3e18ae7d30ac01
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-56ebf71e053614236b3e18ae7d30ac01
+    projectPath: Temp/UnityTempFile-56ebf71e053614236b3e18ae7d30ac01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7471fb004a8cd469ab732a396a057f3e
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-7471fb004a8cd469ab732a396a057f3e
+    projectPath: Temp/UnityTempFile-7471fb004a8cd469ab732a396a057f3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-74a84c73cb1c04f4189924ebdb599ffa
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-74a84c73cb1c04f4189924ebdb599ffa
+    projectPath: Temp/UnityTempFile-74a84c73cb1c04f4189924ebdb599ffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-84525934373fe4013ab73192617d0ff4
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-84525934373fe4013ab73192617d0ff4
+    projectPath: Temp/UnityTempFile-84525934373fe4013ab73192617d0ff4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-89f5c555a11924dd0b1eacc0a56fdf0e
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-89f5c555a11924dd0b1eacc0a56fdf0e
+    projectPath: Temp/UnityTempFile-89f5c555a11924dd0b1eacc0a56fdf0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8cdb241a5dc0d43868f07c4ca7d12768
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-8cdb241a5dc0d43868f07c4ca7d12768
+    projectPath: Temp/UnityTempFile-8cdb241a5dc0d43868f07c4ca7d12768
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8e04dae496a934f40be2c3215f2cc3fe
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-8e04dae496a934f40be2c3215f2cc3fe
+    projectPath: Temp/UnityTempFile-8e04dae496a934f40be2c3215f2cc3fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8fb42574594e5457b92f2ce09ea250e5
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-8fb42574594e5457b92f2ce09ea250e5
+    projectPath: Temp/UnityTempFile-8fb42574594e5457b92f2ce09ea250e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-956eb3f2bad8543498e035035fe5e0bd
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-956eb3f2bad8543498e035035fe5e0bd
+    projectPath: Temp/UnityTempFile-956eb3f2bad8543498e035035fe5e0bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9a8d0e57b2d89476fb59f5aacc20194a
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-9a8d0e57b2d89476fb59f5aacc20194a
+    projectPath: Temp/UnityTempFile-9a8d0e57b2d89476fb59f5aacc20194a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a8a375ddc1d094667add4205b2765393
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-a8a375ddc1d094667add4205b2765393
+    projectPath: Temp/UnityTempFile-a8a375ddc1d094667add4205b2765393
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-aa25477549b584643b70f34911304b11
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-aa25477549b584643b70f34911304b11
+    projectPath: Temp/UnityTempFile-aa25477549b584643b70f34911304b11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-afbaf37587d34476283f2673eca59f3b
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-afbaf37587d34476283f2673eca59f3b
+    projectPath: Temp/UnityTempFile-afbaf37587d34476283f2673eca59f3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b050da1698b104e638bd5ded46ddd038
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-b050da1698b104e638bd5ded46ddd038
+    projectPath: Temp/UnityTempFile-b050da1698b104e638bd5ded46ddd038
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b433a8935d2db4cbf89a58d081df62b1
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-b433a8935d2db4cbf89a58d081df62b1
+    projectPath: Temp/UnityTempFile-b433a8935d2db4cbf89a58d081df62b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b4ba785380f13419f814e9a940df93c7
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-b4ba785380f13419f814e9a940df93c7
+    projectPath: Temp/UnityTempFile-b4ba785380f13419f814e9a940df93c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b6587f2e0c81243068fafa6acc4248b6
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-b6587f2e0c81243068fafa6acc4248b6
+    projectPath: Temp/UnityTempFile-b6587f2e0c81243068fafa6acc4248b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bfd2a3320e05a47f7892ef604a8c997b
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-bfd2a3320e05a47f7892ef604a8c997b
+    projectPath: Temp/UnityTempFile-bfd2a3320e05a47f7892ef604a8c997b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c23b1cecfa7bc4087b984c6d8e008589
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-c23b1cecfa7bc4087b984c6d8e008589
+    projectPath: Temp/UnityTempFile-c23b1cecfa7bc4087b984c6d8e008589
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c352ddd30ec0b4d4dbd1717eb174b38e
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-c352ddd30ec0b4d4dbd1717eb174b38e
+    projectPath: Temp/UnityTempFile-c352ddd30ec0b4d4dbd1717eb174b38e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d07b6d1a70d0a4ef4a818970de4f731a
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-d07b6d1a70d0a4ef4a818970de4f731a
+    projectPath: Temp/UnityTempFile-d07b6d1a70d0a4ef4a818970de4f731a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e823018d5198149dd8a8d9612cb98a70
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-e823018d5198149dd8a8d9612cb98a70
+    projectPath: Temp/UnityTempFile-e823018d5198149dd8a8d9612cb98a70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f385ab8add6a7474492bccc4a910f267
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-f385ab8add6a7474492bccc4a910f267
+    projectPath: Temp/UnityTempFile-f385ab8add6a7474492bccc4a910f267
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f38b67bd8cabe44dd8a03ee61f7bf07f
+    fullPath: /Volumes/Angela T7/Unity Projects/repos/unity2d/2D_IsoTilemaps-master/Cosy
+      Desk/Temp/UnityTempFile-f38b67bd8cabe44dd8a03ee61f7bf07f
+    projectPath: Temp/UnityTempFile-f38b67bd8cabe44dd8a03ee61f7bf07f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

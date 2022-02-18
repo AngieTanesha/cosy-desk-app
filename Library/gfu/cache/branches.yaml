@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-02-18T23:47:10.795+11:00
-  initializedAtString: 2022-02-18T23:47:10.748+11:00
+  lastUpdatedAtString: 2022-02-19T00:13:11.673+11:00
+  initializedAtString: 2022-02-19T00:13:11.597+11:00
   localBranches:
   - name: main
-    tracking: 
-  remoteBranches: []
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/AngieTanesha/cosy-desk-app.git
@@ -33,13 +35,22 @@ MonoBehaviour:
     values:
     - name: main
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/AngieTanesha/cosy-desk-app.git
+      trackingBranch: main
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/AngieTanesha/cosy-desk-app.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
