@@ -90,6 +90,7 @@ public class Stopwatch : MonoBehaviour
         currentTimeText.enabled = true;
         
         current.AddStartEndTimes(DateTime.Now);
+
     }
 
     // ------------------------------------------------------------------------
@@ -104,8 +105,6 @@ public class Stopwatch : MonoBehaviour
         current.AddStartEndTimes(DateTime.Now);
 
         sessionsList.Add(current);
-        Debug.Log(current.GetStartEndTimes().Count);
-        Debug.Log("-----.....------");
 
     }
 

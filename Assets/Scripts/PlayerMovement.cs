@@ -10,13 +10,13 @@ public class PlayerMovement : MonoBehaviour
     Vector3 movement;
     bool playIsPressed = false;
 
+    public static Vector3 teleportCharacter;
     [SerializeField]
-    GameObject desk, chair;
+    Sprite desk, chair;
 
     [SerializeField]
-    Vector3 _moveto;
+    GameObject deskGO, chairGO, room;
 
-    // Update is called once per frame
     void Update()
     {
         if (playIsPressed == false)
@@ -42,10 +42,12 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("work in progress");
         playIsPressed = true;
-  
-        transform.position = _moveto;
 
-        Debug.Log("don't move!");
+        // TELEPORT USER, WORKS AFTER SAVING ONLY
+        float mult = room.transform.localScale.x;
+        teleportCharacter = room.transform.position + deskGO.transform.position * mult + new Vector3(0, 2, 0);
+
+        transform.position = teleportCharacter;
 
     }
 

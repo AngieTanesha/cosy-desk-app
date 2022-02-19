@@ -77,12 +77,16 @@ public class CameraFollow2D : MonoBehaviour
         
         if (playIsPressed == false)
         {
-            transform.position = new Vector3(376, 194, -5);
+            Vector3 newPos = character.transform.localPosition - new Vector3(0, -70, 10);
+            transform.position = newPos;
+ 
             playIsPressed = true;
 
+
             // Do the necessary tricks with camera
-            
-        } else
+
+        }
+        else
         {
             playIsPressed = false;
         }

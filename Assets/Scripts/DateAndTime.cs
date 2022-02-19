@@ -9,11 +9,11 @@ public class DateAndTime
 
     public string GetDate()
     {
-        return datesAndTimes[1];
+        return datesAndTimes[0];
     }
 
     public string GetTime()
     {
-        return datesAndTimes[2];
+        return datesAndTimes[1];
     }
 }

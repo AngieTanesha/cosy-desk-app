@@ -33,6 +33,7 @@ public class UIController : MonoBehaviour
         transform.Find("DoneButton").gameObject.SetActive(true);
         transform.Find("TagsButton").gameObject.SetActive(true);
         frame.SetActive(true);
+
         Debug.Log("Buttons be gone");
     }
 

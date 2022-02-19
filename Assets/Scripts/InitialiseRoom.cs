@@ -8,14 +8,14 @@ public class InitialiseRoom : MonoBehaviour
     // ------------------------------------------------------------------------
     void Start()
     {
-        
+
         // If there's no savefile, unblock code.
 
-        //for (int i = 0; i < ro.gameObjectsRN.Count; i++)
-        //{
-        //    ro.gameObjectsRN[i].name.Replace("(clone)", "").Trim();
-        //    Instantiate(ro.gameObjectsRN[i], ro.room.transform);
-        //}
+        for (int i = 0; i < ro.gameObjectsRN.Count; i++)
+        {
+            ro.gameObjectsRN[i].name.Replace("(clone)", "").Trim();
+            Instantiate(ro.gameObjectsRN[i], ro.room.transform);
+        }
 
     }
 
