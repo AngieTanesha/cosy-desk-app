@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6aa21d1fad0c647638066e9d4dcb1403
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Atkinson Hyperlegible
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74a577d2e6cdf4a84afc1098422587aa, type: 3}
+  - {fileID: 12800000, guid: 37468ca7782314fbdb6cbfb7a75e3fa1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

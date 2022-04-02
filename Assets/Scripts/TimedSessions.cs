@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using UnityEngine;
 
 [System.Serializable]
 
@@ -31,6 +30,11 @@ public class TimedSessions
     public void SetStartEndTimes(List<DateAndTime> _timesList)
     {
         startEndTimes = _timesList;
+    }
+
+    public void SetTagsList(List<string> _tagsList)
+    {
+        tagsList = _tagsList;
     }
 
     // ------------------------------------------------------------------------

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.IO;
+using System.Collections.Generic;
 
 public static class SaveManager 
 {
@@ -42,4 +43,6 @@ public static class SaveManager
         Debug.Log("Loaded from txt");
         return ro;
     }
+
+
 }

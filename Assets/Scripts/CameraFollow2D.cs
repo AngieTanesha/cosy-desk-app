@@ -6,20 +6,16 @@ using UnityEngine.UI;
 public class CameraFollow2D : MonoBehaviour
 {    
 
-    [SerializeField]
-    GameObject character;
+    [SerializeField] GameObject character;
 
     // Offset for Lerp
-    [SerializeField]
-    float timeOffset;
+    [SerializeField] float timeOffset;
 
     // Camera offset
-    [SerializeField]
-    Vector2 posOffset;
+    [SerializeField] Vector2 posOffset;
 
     // Bounds for camera
-    [SerializeField]
-    float leftLimit, rightLimit, bottomLimit, topLimit;
+    [SerializeField] float leftLimit, rightLimit, bottomLimit, topLimit;
 
     bool playIsPressed = false;
     Image frame;
@@ -83,7 +79,6 @@ public class CameraFollow2D : MonoBehaviour
             playIsPressed = true;
 
 
-            // Do the necessary tricks with camera
 
         }
         else

@@ -5,8 +5,7 @@ using UnityEngine.UIElements;
 
 public class UIController : MonoBehaviour
 {
-    [SerializeField]
-    GameObject frame;
+    [SerializeField] GameObject frame;
     
     void Start()
     {
@@ -34,7 +33,6 @@ public class UIController : MonoBehaviour
         transform.Find("TagsButton").gameObject.SetActive(true);
         frame.SetActive(true);
 
-        Debug.Log("Buttons be gone");
     }
 
     public void BackToOriginUI()

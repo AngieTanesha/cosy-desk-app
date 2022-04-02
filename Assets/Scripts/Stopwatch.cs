@@ -11,7 +11,7 @@ public class Stopwatch : MonoBehaviour
 
     bool StopwatchActive = false;
 
-    // NEED TO INSTANTIATE THIS FIRST GIRL.
+    // NEED TO INSTANTIATE THIS FIRST. GIRL.
     TimedSessions current = new TimedSessions();
 
     // Use this as a real-time counter, not to be saved.
@@ -22,12 +22,10 @@ public class Stopwatch : MonoBehaviour
     private static List<TimedSessions> sessionsList = new List<TimedSessions>();
 
     // To get location of desk
-    [SerializeField]
-    GameObject desk;
+    [SerializeField] GameObject desk;
 
     // To display currentTime
-    [SerializeField]
-    Text currentTimeText;
+    [SerializeField] Text currentTimeText;
 
 
     // ------------------------------------------------------------------------
@@ -54,6 +52,7 @@ public class Stopwatch : MonoBehaviour
 
         currentTime = 0;
         currentTimeText.enabled = false;
+
     }
 
     // ------------------------------------------------------------------------
@@ -100,12 +99,32 @@ public class Stopwatch : MonoBehaviour
         StopwatchActive = false;
         currentTimeText.enabled = false;
 
+        // Resets stopwatch timer
         currentTime = 0;
 
+        // Add start and end times
         current.AddStartEndTimes(DateTime.Now);
 
-        sessionsList.Add(current);
+        // Add the tags list
+        List<string> _tags = TagFiller.GetSelectedTags();
+        current.SetTagsList(_tags);
 
+
+        // Update tags frequency dictionary
+        foreach (string selected in _tags)
+        {
+            if (!TagFiller.tagsFrequency.ContainsKey(selected))
+            {
+                TagFiller.tagsFrequency.Add(selected, 1);
+            } else
+            {
+                TagFiller.tagsFrequency[selected] += 1;
+            }
+            
+        }
+
+        // Add the TimedSession to file
+        sessionsList.Add(current);
     }
 
     // ------------------------------------------------------------------------
@@ -129,19 +148,24 @@ public class Stopwatch : MonoBehaviour
 
     public void Show()
     {
-        Debug.Log("GRAPH");
+        Debug.Log("Graphs " + sessionsList.Count);
+        
         foreach (TimedSessions sesh in sessionsList)
         {
-            Debug.Log("TIMEDSESSION");
+  
             List<DateAndTime> temp = sesh.GetStartEndTimes();
 
-            foreach (DateAndTime hours in temp)
-            {
-                Debug.Log("Date: " + hours.GetDate());
-                Debug.Log("Time: " + hours.GetTime());
-            }
+            //foreach (DateAndTime hours in temp)
+            //{
+            //    Debug.Log("Date: " + hours.GetDate());
+            //    Debug.Log("Time: " + hours.GetTime());
+            //}
+
+            //foreach(string tag in TagFiller.GetSelectedTags())
+            //{
+            //    Debug.Log(tag);
+            //}
         }
     }
-
 
 }

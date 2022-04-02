@@ -11,11 +11,9 @@ public class PlayerMovement : MonoBehaviour
     bool playIsPressed = false;
 
     public static Vector3 teleportCharacter;
-    [SerializeField]
-    Sprite desk, chair;
 
-    [SerializeField]
-    GameObject deskGO, chairGO, room;
+    [SerializeField] Sprite desk, chair;
+    [SerializeField] GameObject deskGO, chairGO, room;
 
     void Update()
     {

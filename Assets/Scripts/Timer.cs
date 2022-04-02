@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 using System;
@@ -44,7 +43,7 @@ public class Timer : MonoBehaviour
     {
         // for now
         timerActive = !timerActive;
-        Debug.Log("Hi");
+        Debug.Log("Timer Start");
 
     }
 
