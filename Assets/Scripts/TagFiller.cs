@@ -284,7 +284,7 @@ public class TagFiller : MonoBehaviour
 
         first = true;
         searching = true;
-        tagsList = new List<string>();
+        //tagsList = new List<string>();
         buttonsList = new List<GameObject>();
         StartCoroutine(Start());
 
